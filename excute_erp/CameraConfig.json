@@ -1,0 +1,315 @@
+{
+  "Cameras": [
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5005",
+      "ProductId": "112642",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5010",
+      "ProductId": "112642",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5120",
+      "ProductId": "60400",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5313",
+      "ProductId": "31560",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5732",
+      "ProductId": "53665",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "5732",
+      "ProductId": "54200",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "6105",
+      "ProductId": "12403",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "6105",
+      "ProductId": "61546",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "6105",
+      "ProductId": "61555",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "6106",
+      "ProductId": "61550",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "6514",
+      "ProductId": "30200",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "7334",
+      "ProductId": "30200",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "15427",
+      "ProductId": "63204",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "15427",
+      "ProductId": "1011",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "15427",
+      "ProductId": "63205",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "15717",
+      "ProductId": "5425",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "15717",
+      "ProductId": "1",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "25426",
+      "ProductId": "63211",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "27132",
+      "ProductId": "10020",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "27132",
+      "ProductId": "10032",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "165432",
+      "ProductId": "23637",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112641",
+      "ProductId": "5005",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112641",
+      "ProductId": "5010",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112642",
+      "ProductId": "5005",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112642",
+      "ProductId": "5010",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112642",
+      "ProductId": "6410",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112643",
+      "ProductId": "5010",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112644",
+      "ProductId": "5413",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112645",
+      "ProductId": "5415",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "112647",
+      "ProductId": "5010",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    },
+    {
+      "Name": "",
+      "Series": "",
+      "VenderId": "23527",
+      "ProductId": "11400",
+      "DotsPerInch": 305,
+      "ExtendedResolutions": [],
+      "Snapshot": false,
+      "Remarks": ""
+    }
+  ],
+  "ApplicationVersion": "1.0.0"
+}
